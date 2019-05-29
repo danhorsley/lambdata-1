@@ -13,7 +13,7 @@ with open("README.md",'r') as fh:
 
 setuptools.setup(
     name = 'lambdata-biovir3',
-    version = '0.0.0.0.1',
+    version = '0.0.0.0.2',
     author = 'biovir3',
     author_email = 'biovir3@gmail.com',
     description = 'DS Helper Functions',
