@@ -6,5 +6,6 @@ import pandas as pd
 import numpy as np
 
 from . import example_module
+from . import functions
 
 TEST = pd.DataFrame(np.ones(10))
