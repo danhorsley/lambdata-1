@@ -12,10 +12,9 @@ with open("README.md",'r') as fh:
      LONG_DESCRIPTION = fh.read()
 
 setuptools.setup(
-    name = 'lambdata-biovir3',
-    version = '0.0.0.0.6',
-    author = 'biovir3',
-    author_email = 'biovir3@gmail.com',
+    name = 'lambdatabbvv33',
+    version = '0.0.0.0.1',
+    author = 'danh',
     description = 'DS Helper Functions',
     long_description = LONG_DESCRIPTION,
     long_description_content_type = 'text/markdown',
